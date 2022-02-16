@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Alon Almog
-- 👀 I’m interested in a student job
-- 🌱 I’m currently learning Computer Science in the Open University
+Hi, I’m Alon Almog. I’m currently looking for a student job while learning Computer Science in the Open University.
 
 <!---
 OakCoral/OakCoral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
